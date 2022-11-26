@@ -11,6 +11,9 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 
 ### Resources
 
+### Blog
+- [Sean Falconer](https://thefalc.com/)
+
 #### Articles
 - [7 Tips for Breaking Into DevRel](https://dev.to/dabit3/7-tips-for-breaking-into-devrel-7jk)
 - [Tips to Succeed In Your First DevRel Job](https://dev.to/blackgirlbytes/tips-to-succeed-in-your-first-devrel-job-48m7)
