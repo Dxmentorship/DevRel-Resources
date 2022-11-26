@@ -13,6 +13,7 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 
 ### Blog
 - [Sean Falconer](https://thefalc.com/)
+- [The Developer Advocacy Handbook by Christian Heilmann](https://developer-advocacy.com/)
 
 #### Articles
 - [7 Tips for Breaking Into DevRel](https://dev.to/dabit3/7-tips-for-breaking-into-devrel-7jk)
