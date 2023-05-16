@@ -9,7 +9,7 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - Resources
   - [Articles](###Articles)
   - [Tools](###Tools)
-  - [DevRel Events](###Events)
+  - [DevRel Events](#devrel-events)
   - [DevRel Books](###Books)
   
 
