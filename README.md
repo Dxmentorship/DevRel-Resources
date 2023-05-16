@@ -7,10 +7,9 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 ## Table of Content
 
 - Resources
-  - [Articles](###Articles)
-  - [Tools](###Tools)
+  - [Articles](#articles)
+  - [Tools](#tools)
   - [DevRel Events](#devrel-events)
-  - [DevRel Books](###Books)
   
 
 ### Resources
