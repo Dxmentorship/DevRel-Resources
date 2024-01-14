@@ -29,6 +29,9 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - [Top 100 DevRel influencers](https://www.ecairn.com/blogs/blog-post-title-three-359w4-m4er9-j3rk2)
 - [Adventures in Solo DevRel Notes | Taylor Barnett](https://taylorbar.net/posts/adventures-in-solo-devrel-notes/)
 
+#### Courses
+[Managing Developer Communities: An Introduction to DevRel](https://learn.community.club/course/introduction-devrel)
+
 #### Videos
 
 - [A Youtube Channel that covers wide sessions of DevRel](https://www.youtube.com/user/jonobacon)
