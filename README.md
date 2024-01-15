@@ -43,6 +43,12 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - [Lead Devrel](https://open.spotify.com/show/3SOQgt6bc7s3C8VbhTDJqS?si=4a445c1e75424d24)
 - [The DevrelX Podcast](https://open.spotify.com/show/7DyhFVdj0Pa0aQm4TVLXcT?si=3bc64c4cf84d498a)
 
+#### Mentorships/Training
+
+- [DX Mnetorship](https://dxmentorship.com/)
+- [Devrel Uni](https://www.devreluni.com/)
+
+
 ### DevRel Events
 - [DevRel Con](https://developerrelations.com/devrelcon)
 
