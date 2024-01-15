@@ -51,10 +51,15 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 #### Communities
 - [DevRel Community Africa](https://devrelcomafrica.xyz/)
 
-### DevRel Events
+#### DevRel Events / Conferences
 - [DevRel Con](https://developerrelations.com/devrelcon)
 
+#### Job Boards
 
+- [Devrel Career](https://devrelcareers.com/)
+- [developeradvocatejobs](https://developeradvocatejobs.com/)
+- [Web3 Career](https://web3.career/developer-relations-jobs)
+  
 ### Contribution
 
 ### License
