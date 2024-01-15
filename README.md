@@ -45,13 +45,13 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 
 #### Mentorships/Training
 
-- [DX Mnetorship](https://dxmentorship.com/)
+- [DX Mentorship](https://dxmentorship.com/)
 - [Devrel Uni](https://www.devreluni.com/)
 
 #### Communities
 - [DevRel Community Africa](https://devrelcomafrica.xyz/)
 
-#### DevRel Events / Conferences
+#### DevRel Events/Conferences
 - [DevRel Con](https://developerrelations.com/devrelcon)
 
 #### Job Boards
@@ -59,6 +59,11 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - [Devrel Career](https://devrelcareers.com/)
 - [developeradvocatejobs](https://developeradvocatejobs.com/)
 - [Web3 Career](https://web3.career/developer-relations-jobs)
+
+#### Newsletters
+
+- [Developer Avocados 🥑 Weekly](https://developeravocados.substack.com/)
+  
   
 ### Contribution
 
