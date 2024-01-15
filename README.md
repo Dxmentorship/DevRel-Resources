@@ -48,6 +48,8 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - [DX Mnetorship](https://dxmentorship.com/)
 - [Devrel Uni](https://www.devreluni.com/)
 
+#### Communities
+- [DevRel Community Africa](https://devrelcomafrica.xyz/)
 
 ### DevRel Events
 - [DevRel Con](https://developerrelations.com/devrelcon)
