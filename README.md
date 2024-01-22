@@ -8,6 +8,7 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 
 - Resources
   - [Articles](#articles)
+  - [Books](#books)
   - [Tools](#tools)
   - [DevRel Events](#devrel-events)
   
@@ -28,6 +29,11 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - [How to Start Doing Dev Rel Right Now](https://www.samjulien.com/how-to-start-doing-dev-rel-right-now)
 - [Top 100 DevRel influencers](https://www.ecairn.com/blogs/blog-post-title-three-359w4-m4er9-j3rk2)
 - [Adventures in Solo DevRel Notes | Taylor Barnett](https://taylorbar.net/posts/adventures-in-solo-devrel-notes/)
+
+#### Books
+
+- [Getting Started in Developer Relations (eBook) by Sam Julien](https://learn.samjulien.com/getting-started-in-developer-relations)
+
 
 #### Videos
 
